@@ -179,7 +179,7 @@ def page1():
                 """
                         <style>
                         .big-font {
-                        font-size:70px !important;
+                        font-size:60px !important;
                         }
                         </style>
                         """,
@@ -190,7 +190,7 @@ def page1():
                 """
                         <style>
                         .big-font2 {
-                        font-size:30px !important;
+                        font-size:40px !important;
                         } </style>
                         """,
                 unsafe_allow_html=True,
