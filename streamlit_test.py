@@ -185,7 +185,7 @@ def page1():
                         """,
                 unsafe_allow_html=True,
             )
-            st.markdown('<p class="big-font">Beyond the Silver Screen: Unraveling Revenue Mysteries!</p>', unsafe_allow_html=True)
+            st.markdown('<p class="big-font">Beyond Silver Screen: Unraveling Revenue Mysteries!</p>', unsafe_allow_html=True)
             st.markdown(
                 """
                         <style>
