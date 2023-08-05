@@ -117,7 +117,7 @@ class DataframeTransformer:
 'director_Brian De Palma',
 'director_Barry Levinson',
 'director_Spike Lee',
-'director_John Landis',
+'director_Christopher Nolan',
 'producer_Joel Silver',
 'producer_Jerry Bruckheimer',
 'producer_Brian Grazer',

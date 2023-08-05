@@ -77,7 +77,7 @@ class CastTransformer(TransformerMixin, BaseEstimator):
             "Brian De Palma",
             "Barry Levinson",
             "Spike Lee",
-            "John Landis",
+            "Christopher Nolan",
         ]
         popular_producer_list = [
             "Joel Silver",
